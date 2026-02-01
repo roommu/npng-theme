@@ -1,6 +1,5 @@
 baseURL = "https://npng-theme.pages.dev/"
 themesDir = "themes"
-theme = "hugo-serif-theme"
 languageCode = "en-CA"
 title = "NPNG Inc. | Project Management"
 
